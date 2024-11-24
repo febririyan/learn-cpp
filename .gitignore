@@ -1,0 +1,5 @@
+# Mengabaikan file build output
+*.exe
+*.out
+*.o
+build/

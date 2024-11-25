@@ -34,7 +34,7 @@ class GfG {
     };
 };
 
-int GfG::i = 1;
+int GfG::i = 45;
 
 int main () {
     GfG test;
